@@ -1,0 +1,31 @@
+{  
+  "name": "city8866/cirestful",  
+  "description": "ci-restful",  
+  "keywords": [  
+    "citytest"  
+  ],  
+  "homepage": "https://github.com/city8866/third-login",  
+  "type": "yii2-extension",  
+  "license": "MIT",  
+  "support": {  
+    "source": "https://github.com/city8866/third-login"  
+  },  
+  "authors": [  
+    {  
+      "name": "ygk",  
+      "email": "965177646@qq.com"  
+    }  
+  ],  
+  "minimum-stability": "dev",  
+  "require": {  
+    "php": ">=5.4.0",  
+  },  
+  "autoload": {  
+    "psr-4": {  
+      "cirestful\\src\\": ""  
+    }  
+  },  
+  "config": {  
+    "process-timeout": 1800  
+  }  
+}
