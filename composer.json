@@ -5,7 +5,6 @@
     "citytest"  
   ],  
   "homepage": "https://github.com/city8866/third-login",  
-  "type": "yii2-extension",  
   "license": "MIT",  
   "support": {  
     "source": "https://github.com/city8866/third-login"  
